@@ -1,0 +1,49 @@
+.Destacados-Y-Novedades-General{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+ 
+}
+.titulo{
+    display: flex;
+    flex-direction: row;
+    margin-left: 20px;
+}
+.inicio-de-info{
+    border:  solid 1px black;  
+    padding: 50px;
+}
+.info-general{
+    padding: 30px;
+}
+.url{
+    display: flex;
+    flex-direction: row;
+}
+.trabajo{
+    margin: 20px 0px;
+}
+.equipo-info{
+    display: flex;
+    flex-direction: column;
+}
+.equipo{
+    display: flex;
+    flex-direction: column;
+}
+.equipo-orden{
+    display: flex;
+    flex-direction: column;
+}
+.foto{
+    border:  solid 1px black;  
+    border-radius: 100%;
+    padding: 30px;
+}
+.enlace-de-persona{
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: 10px 0px;
+}
